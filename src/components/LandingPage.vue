@@ -440,7 +440,7 @@
               >
             </nav>
             <p class="text-sm text-gray-400 dark:text-gray-500">
-              © 2024 Stocker. All rights reserved. Stocker is a simulation tool.
+              © 2025 Stocker. All rights reserved. Stocker is a simulation tool.
               No real money is traded.
             </p>
           </div>
