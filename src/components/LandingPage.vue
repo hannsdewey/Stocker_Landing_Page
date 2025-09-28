@@ -1,4 +1,3 @@
-<!-- filepath: c:\Users\A\stockerlandingpage\src\App.vue -->
 <template>
   <div class="relative w-full flex flex-col min-h-screen">
     <!-- Header -->
@@ -451,6 +450,4 @@
   </div>
 </template>
 
-<script setup>
-// No script needed for static content
-</script>
+<script setup></script>
